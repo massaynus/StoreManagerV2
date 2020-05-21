@@ -1,0 +1,16 @@
+<Data>
+  <Piece name="ItemSoldPerMonth">
+    <Month name="Janvier">10</Month>
+    <Month name="Fevrier">74</Month>
+    <Month name="Mars">65</Month>
+    <Month name="Avril">50</Month>
+    <Month name="Mai">74</Month>
+    <Month name="Juin">58</Month>
+    <Month name="Juillet">66</Month>
+    <Month name="Août">100</Month>
+    <Month name="Septembre">147</Month>
+    <Month name="Octobre">168</Month>
+    <Month name="Novembre">239</Month>
+    <Month name="Decembre">170</Month>
+  </Piece>
+</Data>

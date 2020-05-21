@@ -1,0 +1,638 @@
+<Log>
+  <Action>Log Start...</Action>
+  <Action>[28/04/2019 14:57:15]:   Updated Product</Action>
+  <Action>[28/04/2019 14:57:15]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 14:57:15]:   Application loaded</Action>
+  <Action>[28/04/2019 14:57:17]:   Access Quart</Action>
+  <Action>[28/04/2019 14:57:20]:   Added an item to quart</Action>
+  <Action>[28/04/2019 14:57:29]:   Access vendors List</Action>
+  <Action>[28/04/2019 14:57:44]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 14:57:53]:   Access Statistics</Action>
+  <Action>[28/04/2019 14:57:55]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 14:57:55]:   Access Stock</Action>
+  <Action>[28/04/2019 14:58:01]:   Exit application</Action>
+  <Action>[28/04/2019 16:08:10]:   Updated Product</Action>
+  <Action>[28/04/2019 16:08:10]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:08:10]:   Application loaded</Action>
+  <Action>[28/04/2019 16:08:13]:   Access Log</Action>
+  <Action>[28/04/2019 16:08:26]:   Exit application</Action>
+  <Action>[28/04/2019 16:09:14]:   Updated Product</Action>
+  <Action>[28/04/2019 16:09:14]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:09:14]:   Application loaded</Action>
+  <Action>[28/04/2019 16:09:16]:   Access Log</Action>
+  <Action>[28/04/2019 16:09:20]:   Exit application</Action>
+  <Action>[28/04/2019 16:10:14]:   Updated Product</Action>
+  <Action>[28/04/2019 16:10:14]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:10:14]:   Application loaded</Action>
+  <Action>[28/04/2019 16:10:16]:   Access Log</Action>
+  <Action>[28/04/2019 16:10:30]:   Exit application</Action>
+  <Action>[28/04/2019 16:11:08]:   Updated Product</Action>
+  <Action>[28/04/2019 16:11:08]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:11:08]:   Application loaded</Action>
+  <Action>[28/04/2019 16:11:10]:   Access Log</Action>
+  <Action>[28/04/2019 16:11:20]:   Exit application</Action>
+  <Action>[28/04/2019 16:11:41]:   Updated Product</Action>
+  <Action>[28/04/2019 16:11:41]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:11:41]:   Application loaded</Action>
+  <Action>[28/04/2019 16:11:43]:   Access Log</Action>
+  <Action>[28/04/2019 16:11:52]:   Exit application</Action>
+  <Action>[28/04/2019 16:12:35]:   Updated Product</Action>
+  <Action>[28/04/2019 16:12:35]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:12:35]:   Application loaded</Action>
+  <Action>[28/04/2019 16:12:36]:   Access Log</Action>
+  <Action>[28/04/2019 16:12:42]:   Exit application</Action>
+  <Action>[28/04/2019 16:18:20]:   Updated Product</Action>
+  <Action>[28/04/2019 16:18:20]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:18:20]:   Application loaded</Action>
+  <Action>[28/04/2019 16:18:22]:   Access Log</Action>
+  <Action>[28/04/2019 16:18:36]:   Exit application</Action>
+  <Action>[28/04/2019 16:19:26]:   Updated Product</Action>
+  <Action>[28/04/2019 16:19:26]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:19:26]:   Application loaded</Action>
+  <Action>[28/04/2019 16:19:27]:   Access Log</Action>
+  <Action>[28/04/2019 16:19:31]:   Exit application</Action>
+  <Action>[28/04/2019 16:19:46]:   Updated Product</Action>
+  <Action>[28/04/2019 16:19:46]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:19:46]:   Application loaded</Action>
+  <Action>[28/04/2019 16:19:47]:   Access Log</Action>
+  <Action>[28/04/2019 16:21:25]:   Exit application</Action>
+  <Action>[28/04/2019 16:21:40]:   Updated Product</Action>
+  <Action>[28/04/2019 16:21:40]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:21:40]:   Application loaded</Action>
+  <Action>[28/04/2019 16:21:42]:   Access Log</Action>
+  <Action>[28/04/2019 16:21:48]:   Exit application</Action>
+  <Action>[28/04/2019 16:22:16]:   Updated Product</Action>
+  <Action>[28/04/2019 16:22:16]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:22:16]:   Application loaded</Action>
+  <Action>[28/04/2019 16:22:17]:   Access Log</Action>
+  <Action>[28/04/2019 16:22:21]:   Exit application</Action>
+  <Action>[28/04/2019 16:22:31]:   Updated Product</Action>
+  <Action>[28/04/2019 16:22:31]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:22:31]:   Application loaded</Action>
+  <Action>[28/04/2019 16:22:32]:   Access Log</Action>
+  <Action>[28/04/2019 16:22:34]:   Exit application</Action>
+  <Action>[28/04/2019 16:23:14]:   Updated Product</Action>
+  <Action>[28/04/2019 16:23:14]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:23:14]:   Application loaded</Action>
+  <Action>[28/04/2019 16:23:16]:   Access Log</Action>
+  <Action>[28/04/2019 16:23:21]:   Exit application</Action>
+  <Action>[28/04/2019 16:24:04]:   Updated Product</Action>
+  <Action>[28/04/2019 16:24:04]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:24:04]:   Application loaded</Action>
+  <Action>[28/04/2019 16:24:05]:   Access Log</Action>
+  <Action>[28/04/2019 16:24:20]:   Access Quart</Action>
+  <Action>[28/04/2019 16:24:21]:   Access Stock</Action>
+  <Action>[28/04/2019 16:24:22]:   Access Statistics</Action>
+  <Action>[28/04/2019 16:24:23]:   Access Log</Action>
+  <Action>[28/04/2019 16:24:38]:   Exit application</Action>
+  <Action>[28/04/2019 16:25:00]:   Updated Product</Action>
+  <Action>[28/04/2019 16:25:00]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:25:00]:   Application loaded</Action>
+  <Action>[28/04/2019 16:25:01]:   Access Log</Action>
+  <Action>[28/04/2019 16:25:09]:   Exit application</Action>
+  <Action>[28/04/2019 16:29:39]:   Access Log</Action>
+  <Action>[28/04/2019 16:30:07]:   Exit application</Action>
+  <Action>[28/04/2019 16:31:52]:   Updated Product</Action>
+  <Action>[28/04/2019 16:31:52]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:31:52]:   Application loaded</Action>
+  <Action>[28/04/2019 16:31:53]:   Access Quart</Action>
+  <Action>[28/04/2019 16:31:55]:   Added an item to quart</Action>
+  <Action>[28/04/2019 16:31:56]:   Added an item to quart</Action>
+  <Action>[28/04/2019 16:32:43]:   The purshase:	(Bought: Samsung + Predator  Total: 14301,87) was made</Action>
+  <Action>[28/04/2019 16:32:45]:   Access Log</Action>
+  <Action>[28/04/2019 16:33:05]:   Exit application</Action>
+  <Action>[28/04/2019 16:44:36]:   Updated Product</Action>
+  <Action>[28/04/2019 16:44:36]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 16:44:36]:   Application loaded</Action>
+  <Action>[28/04/2019 16:44:39]:   Access Log</Action>
+  <Action>[28/04/2019 16:45:07]:   Exit application</Action>
+  <Action>[28/04/2019 17:02:39]:   Updated Product</Action>
+  <Action>[28/04/2019 17:02:39]:   Updated Vendor info</Action>
+  <Action>[28/04/2019 17:02:40]:   Application loaded</Action>
+  <Action>[28/04/2019 17:03:04]:   Access Stock</Action>
+  <Action>[28/04/2019 17:03:43]:   Access vendors List</Action>
+  <Action>[28/04/2019 17:03:59]:   Access Log</Action>
+  <Action>[28/04/2019 17:04:22]:   Exit application</Action>
+  <Action>[30/04/2019 20:31:44]:   Updated Product</Action>
+  <Action>[30/04/2019 20:31:44]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 20:31:44]:   Application loaded</Action>
+  <Action>[30/04/2019 20:31:47]:   Access Log</Action>
+  <Action>[30/04/2019 20:31:51]:   Exit application</Action>
+  <Action>[30/04/2019 21:22:03]:   Updated Product</Action>
+  <Action>[30/04/2019 21:22:03]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:22:03]:   Application loaded</Action>
+  <Action>[30/04/2019 21:22:07]:   Exit application</Action>
+  <Action>[30/04/2019 21:23:25]:   Updated Product</Action>
+  <Action>[30/04/2019 21:23:25]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:23:25]:   Application loaded</Action>
+  <Action>[30/04/2019 21:23:26]:   Exit application</Action>
+  <Action>[30/04/2019 21:24:03]:   Updated Product</Action>
+  <Action>[30/04/2019 21:24:03]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:24:03]:   Application loaded</Action>
+  <Action>[30/04/2019 21:24:05]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:24:08]:   Exit application</Action>
+  <Action>[30/04/2019 21:31:35]:   Updated Product</Action>
+  <Action>[30/04/2019 21:31:35]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:31:35]:   Application loaded</Action>
+  <Action>[30/04/2019 21:31:46]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:31:51]:   Exit application</Action>
+  <Action>[30/04/2019 21:32:16]:   Updated Product</Action>
+  <Action>[30/04/2019 21:32:16]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:32:16]:   Application loaded</Action>
+  <Action>[30/04/2019 21:32:18]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:32:23]:   Exit application</Action>
+  <Action>[30/04/2019 21:36:52]:   Updated Product</Action>
+  <Action>[30/04/2019 21:36:52]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:36:52]:   Application loaded</Action>
+  <Action>[30/04/2019 21:36:53]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:37:03]:   Exit application</Action>
+  <Action>[30/04/2019 21:37:15]:   Updated Product</Action>
+  <Action>[30/04/2019 21:37:15]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:37:15]:   Application loaded</Action>
+  <Action>[30/04/2019 21:37:16]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:37:19]:   Exit application</Action>
+  <Action>[30/04/2019 21:39:58]:   Updated Product</Action>
+  <Action>[30/04/2019 21:39:58]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:39:58]:   Application loaded</Action>
+  <Action>[30/04/2019 21:39:59]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:40:04]:   Exit application</Action>
+  <Action>[30/04/2019 21:43:17]:   Updated Product</Action>
+  <Action>[30/04/2019 21:43:17]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:43:17]:   Application loaded</Action>
+  <Action>[30/04/2019 21:43:18]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:43:22]:   Exit application</Action>
+  <Action>[30/04/2019 21:44:08]:   Updated Product</Action>
+  <Action>[30/04/2019 21:44:08]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:44:08]:   Application loaded</Action>
+  <Action>[30/04/2019 21:44:10]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:44:14]:   Exit application</Action>
+  <Action>[30/04/2019 21:44:26]:   Updated Product</Action>
+  <Action>[30/04/2019 21:44:26]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:44:26]:   Application loaded</Action>
+  <Action>[30/04/2019 21:44:27]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:44:37]:   Exit application</Action>
+  <Action>[30/04/2019 21:45:46]:   Updated Product</Action>
+  <Action>[30/04/2019 21:45:46]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:45:46]:   Application loaded</Action>
+  <Action>[30/04/2019 21:45:47]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:45:53]:   Exit application</Action>
+  <Action>[30/04/2019 21:50:04]:   Updated Product</Action>
+  <Action>[30/04/2019 21:50:04]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:50:04]:   Application loaded</Action>
+  <Action>[30/04/2019 21:50:05]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:50:19]:   Exit application</Action>
+  <Action>[30/04/2019 21:52:15]:   Updated Product</Action>
+  <Action>[30/04/2019 21:52:15]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 21:52:15]:   Application loaded</Action>
+  <Action>[30/04/2019 21:52:17]:   Access Statistics</Action>
+  <Action>[30/04/2019 21:52:29]:   Exit application</Action>
+  <Action>[30/04/2019 22:00:04]:   Updated Product</Action>
+  <Action>[30/04/2019 22:00:04]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 22:00:04]:   Application loaded</Action>
+  <Action>[30/04/2019 22:00:05]:   Access vendors List</Action>
+  <Action>[30/04/2019 22:00:06]:   Access Statistics</Action>
+  <Action>[30/04/2019 22:00:18]:   Exit application</Action>
+  <Action>[30/04/2019 22:00:42]:   Updated Product</Action>
+  <Action>[30/04/2019 22:00:42]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 22:00:42]:   Application loaded</Action>
+  <Action>[30/04/2019 22:00:44]:   Access Statistics</Action>
+  <Action>[30/04/2019 22:01:16]:   Exit application</Action>
+  <Action>[30/04/2019 22:03:46]:   Updated Product</Action>
+  <Action>[30/04/2019 22:03:46]:   Updated Vendor info</Action>
+  <Action>[30/04/2019 22:03:46]:   Application loaded</Action>
+  <Action>[30/04/2019 22:03:48]:   Access Statistics</Action>
+  <Action>[30/04/2019 22:03:55]:   Exit application</Action>
+  <Action>[05/05/2019 15:49:18]:   Updated Product</Action>
+  <Action>[05/05/2019 15:49:18]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 15:49:18]:   Application loaded</Action>
+  <Action>[05/05/2019 15:49:20]:   Access Statistics</Action>
+  <Action>[05/05/2019 15:49:28]:   Exit application</Action>
+  <Action>[05/05/2019 16:15:22]:   Updated Product</Action>
+  <Action>[05/05/2019 16:15:22]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:15:23]:   Application loaded</Action>
+  <Action>[05/05/2019 16:15:24]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:15:32]:   Exit application</Action>
+  <Action>[05/05/2019 16:16:09]:   Updated Product</Action>
+  <Action>[05/05/2019 16:16:09]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:16:09]:   Application loaded</Action>
+  <Action>[05/05/2019 16:16:10]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:16:12]:   Exit application</Action>
+  <Action>[05/05/2019 16:16:21]:   Updated Product</Action>
+  <Action>[05/05/2019 16:16:21]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:16:21]:   Application loaded</Action>
+  <Action>[05/05/2019 16:16:22]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:16:23]:   Exit application</Action>
+  <Action>[05/05/2019 16:20:57]:   Updated Product</Action>
+  <Action>[05/05/2019 16:20:57]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:20:57]:   Application loaded</Action>
+  <Action>[05/05/2019 16:20:59]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:21:01]:   Exit application</Action>
+  <Action>[05/05/2019 16:21:09]:   Updated Product</Action>
+  <Action>[05/05/2019 16:21:09]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:21:09]:   Application loaded</Action>
+  <Action>[05/05/2019 16:21:11]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:21:15]:   Exit application</Action>
+  <Action>[05/05/2019 16:21:38]:   Updated Product</Action>
+  <Action>[05/05/2019 16:21:38]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:21:38]:   Application loaded</Action>
+  <Action>[05/05/2019 16:21:39]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:21:44]:   Exit application</Action>
+  <Action>[05/05/2019 16:22:03]:   Updated Product</Action>
+  <Action>[05/05/2019 16:22:03]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:22:03]:   Application loaded</Action>
+  <Action>[05/05/2019 16:22:04]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:22:07]:   Exit application</Action>
+  <Action>[05/05/2019 16:22:25]:   Updated Product</Action>
+  <Action>[05/05/2019 16:22:25]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:22:25]:   Application loaded</Action>
+  <Action>[05/05/2019 16:22:27]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:22:41]:   Exit application</Action>
+  <Action>[05/05/2019 16:25:50]:   Updated Product</Action>
+  <Action>[05/05/2019 16:25:50]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:25:50]:   Application loaded</Action>
+  <Action>[05/05/2019 16:25:51]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:25:58]:   Exit application</Action>
+  <Action>[05/05/2019 16:27:24]:   Updated Product</Action>
+  <Action>[05/05/2019 16:27:24]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:27:24]:   Application loaded</Action>
+  <Action>[05/05/2019 16:27:30]:   Access Stock</Action>
+  <Action>[05/05/2019 16:27:32]:   Access Quart</Action>
+  <Action>[05/05/2019 16:27:35]:   Exit application</Action>
+  <Action>[05/05/2019 16:28:37]:   Updated Product</Action>
+  <Action>[05/05/2019 16:28:37]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:28:37]:   Application loaded</Action>
+  <Action>[05/05/2019 16:28:38]:   Access Quart</Action>
+  <Action>[05/05/2019 16:28:42]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:28:43]:   The purshase:	(Bought: Ordinateur  Total: 8000) was made</Action>
+  <Action>[05/05/2019 16:30:38]:   Updated Product</Action>
+  <Action>[05/05/2019 16:30:38]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:30:38]:   Application loaded</Action>
+  <Action>[05/05/2019 16:30:39]:   Access Quart</Action>
+  <Action>[05/05/2019 16:30:41]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:30:42]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:30:44]:   The purshase:	(Bought: Samsung + Samsung  Total: 9001,98) was made</Action>
+  <Action>[05/05/2019 16:33:13]:   Updated Product</Action>
+  <Action>[05/05/2019 16:33:13]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:33:13]:   Application loaded</Action>
+  <Action>[05/05/2019 16:33:15]:   Access Quart</Action>
+  <Action>[05/05/2019 16:33:16]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:33:17]:   The purshase:	(Bought: Samsung  Total: 4500,99) was made</Action>
+  <Action>[05/05/2019 16:36:17]:   Updated Product</Action>
+  <Action>[05/05/2019 16:36:17]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:36:17]:   Application loaded</Action>
+  <Action>[05/05/2019 16:36:19]:   Exit application</Action>
+  <Action>[05/05/2019 16:38:18]:   Updated Product</Action>
+  <Action>[05/05/2019 16:38:18]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:38:18]:   Application loaded</Action>
+  <Action>[05/05/2019 16:38:21]:   Access Quart</Action>
+  <Action>[05/05/2019 16:38:22]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:40:59]:   Updated Product</Action>
+  <Action>[05/05/2019 16:40:59]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:40:59]:   Application loaded</Action>
+  <Action>[05/05/2019 16:41:01]:   Access Quart</Action>
+  <Action>[05/05/2019 16:41:03]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:41:46]:   Updated Product</Action>
+  <Action>[05/05/2019 16:41:46]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:41:46]:   Application loaded</Action>
+  <Action>[05/05/2019 16:41:47]:   Access Quart</Action>
+  <Action>[05/05/2019 16:41:48]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:42:06]:   Updated Product</Action>
+  <Action>[05/05/2019 16:42:06]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:42:06]:   Application loaded</Action>
+  <Action>[05/05/2019 16:42:07]:   Access Quart</Action>
+  <Action>[05/05/2019 16:42:08]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:44:42]:   Updated Product</Action>
+  <Action>[05/05/2019 16:44:42]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:44:42]:   Application loaded</Action>
+  <Action>[05/05/2019 16:44:43]:   Access Quart</Action>
+  <Action>[05/05/2019 16:44:44]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:46:49]:   Updated Product</Action>
+  <Action>[05/05/2019 16:46:49]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:46:49]:   Application loaded</Action>
+  <Action>[05/05/2019 16:46:51]:   Access Quart</Action>
+  <Action>[05/05/2019 16:46:53]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:50:16]:   Updated Product</Action>
+  <Action>[05/05/2019 16:50:16]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:50:16]:   Application loaded</Action>
+  <Action>[05/05/2019 16:50:17]:   Access Quart</Action>
+  <Action>[05/05/2019 16:50:18]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:50:19]:   The purshase:	(Bought: Samsung  Total: 4500,99) was made</Action>
+  <Action>[05/05/2019 16:50:35]:   Updated Product</Action>
+  <Action>[05/05/2019 16:50:35]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:50:35]:   Application loaded</Action>
+  <Action>[05/05/2019 16:50:36]:   Access Quart</Action>
+  <Action>[05/05/2019 16:50:37]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:50:38]:   The purshase:	(Bought: Ordinateur  Total: 8000) was made</Action>
+  <Action>[05/05/2019 16:50:42]:   Exit application</Action>
+  <Action>[05/05/2019 16:50:47]:   Updated Product</Action>
+  <Action>[05/05/2019 16:50:47]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:50:47]:   Application loaded</Action>
+  <Action>[05/05/2019 16:50:48]:   Access Quart</Action>
+  <Action>[05/05/2019 16:50:49]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:50:50]:   Added an item to quart</Action>
+  <Action>[05/05/2019 16:50:51]:   The purshase:	(Bought: Samsung + Predator  Total: 14301,87) was made</Action>
+  <Action>[05/05/2019 16:50:53]:   Exit application</Action>
+  <Action>[05/05/2019 16:53:39]:   Updated Product</Action>
+  <Action>[05/05/2019 16:53:39]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:53:39]:   Application loaded</Action>
+  <Action>[05/05/2019 16:53:46]:   Access Stock</Action>
+  <Action>[05/05/2019 16:53:50]:   Exit application</Action>
+  <Action>[05/05/2019 16:56:32]:   Updated Product</Action>
+  <Action>[05/05/2019 16:56:32]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 16:56:32]:   Application loaded</Action>
+  <Action>[05/05/2019 16:56:35]:   Access Quart</Action>
+  <Action>[05/05/2019 16:56:36]:   Access Stock</Action>
+  <Action>[05/05/2019 16:56:37]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:56:38]:   Access vendors List</Action>
+  <Action>[05/05/2019 16:56:40]:   Access Log</Action>
+  <Action>[05/05/2019 16:56:48]:   Access Quart</Action>
+  <Action>[05/05/2019 16:56:49]:   Access Stock</Action>
+  <Action>[05/05/2019 16:56:49]:   Access Statistics</Action>
+  <Action>[05/05/2019 16:56:51]:   Exit application</Action>
+  <Action>[05/05/2019 17:00:44]:   Updated Product</Action>
+  <Action>[05/05/2019 17:00:44]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:00:44]:   Application loaded</Action>
+  <Action>[05/05/2019 17:00:45]:   Access Stock</Action>
+  <Action>[05/05/2019 17:00:47]:   Access Quart</Action>
+  <Action>[05/05/2019 17:00:47]:   Access Stock</Action>
+  <Action>[05/05/2019 17:00:48]:   Access Statistics</Action>
+  <Action>[05/05/2019 17:00:49]:   Access vendors List</Action>
+  <Action>[05/05/2019 17:00:49]:   Access Log</Action>
+  <Action>[05/05/2019 17:00:52]:   Exit application</Action>
+  <Action>[05/05/2019 17:03:14]:   Updated Product</Action>
+  <Action>[05/05/2019 17:03:14]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:03:14]:   Application loaded</Action>
+  <Action>[05/05/2019 17:03:15]:   Access Log</Action>
+  <Action>[05/05/2019 17:03:18]:   Exit application</Action>
+  <Action>[05/05/2019 17:07:41]:   Updated Product</Action>
+  <Action>[05/05/2019 17:07:41]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:07:41]:   Application loaded</Action>
+  <Action>[05/05/2019 17:07:43]:   Exit application</Action>
+  <Action>[05/05/2019 17:19:06]:   Updated Product</Action>
+  <Action>[05/05/2019 17:19:06]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:19:06]:   Application loaded</Action>
+  <Action>[05/05/2019 17:19:08]:   Access Quart</Action>
+  <Action>[05/05/2019 17:19:08]:   Access Stock</Action>
+  <Action>[05/05/2019 17:19:10]:   Access Statistics</Action>
+  <Action>[05/05/2019 17:19:11]:   Access vendors List</Action>
+  <Action>[05/05/2019 17:19:11]:   Access Log</Action>
+  <Action>[05/05/2019 17:19:22]:   Exit application</Action>
+  <Action>[05/05/2019 17:20:24]:   Updated Product</Action>
+  <Action>[05/05/2019 17:20:24]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:20:24]:   Application loaded</Action>
+  <Action>[05/05/2019 17:20:36]:   Exit application</Action>
+  <Action>[05/05/2019 17:22:02]:   Updated Product</Action>
+  <Action>[05/05/2019 17:22:02]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:22:02]:   Application loaded</Action>
+  <Action>[05/05/2019 17:22:10]:   Exit application</Action>
+  <Action>[05/05/2019 17:22:31]:   Updated Product</Action>
+  <Action>[05/05/2019 17:22:31]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:22:31]:   Application loaded</Action>
+  <Action>[05/05/2019 17:22:36]:   Exit application</Action>
+  <Action>[05/05/2019 17:22:45]:   Updated Product</Action>
+  <Action>[05/05/2019 17:22:45]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:22:45]:   Application loaded</Action>
+  <Action>[05/05/2019 17:23:11]:   Exit application</Action>
+  <Action>[05/05/2019 17:23:14]:   Updated Product</Action>
+  <Action>[05/05/2019 17:23:14]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:23:14]:   Application loaded</Action>
+  <Action>[05/05/2019 17:24:33]:   Access Quart</Action>
+  <Action>[05/05/2019 17:24:37]:   Added an item to quart</Action>
+  <Action>[05/05/2019 17:24:38]:   Added an item to quart</Action>
+  <Action>[05/05/2019 17:24:40]:   The purshase:	(Bought: Samsung + Ordinateur  Total: 12500,99) was made</Action>
+  <Action>[05/05/2019 17:24:44]:   Added an item to quart</Action>
+  <Action>[05/05/2019 17:24:45]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 17:24:47]:   Access Stock</Action>
+  <Action>[05/05/2019 17:24:53]:   Added product </Action>
+  <Action>[05/05/2019 17:24:57]:   Updated Product</Action>
+  <Action>[05/05/2019 17:25:03]:   Updated Product</Action>
+  <Action>[05/05/2019 17:25:06]:   Updated Product</Action>
+  <Action>[05/05/2019 17:25:06]:   Access Quart</Action>
+  <Action>[05/05/2019 17:25:09]:   Added an item to quart</Action>
+  <Action>[05/05/2019 17:25:11]:   The purshase:	(Bought: Nom  Total: 1900) was made</Action>
+  <Action>[05/05/2019 17:25:13]:   Access Statistics</Action>
+  <Action>[05/05/2019 17:25:18]:   Access vendors List</Action>
+  <Action>[05/05/2019 17:25:24]:   Access Log</Action>
+  <Action>[05/05/2019 17:25:50]:   Exit application</Action>
+  <Action>[05/05/2019 17:27:59]:   Updated Product</Action>
+  <Action>[05/05/2019 17:27:59]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:28:00]:   Application loaded</Action>
+  <Action>[05/05/2019 17:28:00]:   Access Quart</Action>
+  <Action>[05/05/2019 17:28:01]:   Access Stock</Action>
+  <Action>[05/05/2019 17:28:02]:   Access Statistics</Action>
+  <Action>[05/05/2019 17:28:03]:   Access vendors List</Action>
+  <Action>[05/05/2019 17:28:03]:   Access Log</Action>
+  <Action>[05/05/2019 17:28:08]:   Exit application</Action>
+  <Action>[05/05/2019 17:29:27]:   Updated Product</Action>
+  <Action>[05/05/2019 17:29:27]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:29:27]:   Application loaded</Action>
+  <Action>[05/05/2019 17:29:47]:   Exit application</Action>
+  <Action>[05/05/2019 17:57:44]:   Updated Product</Action>
+  <Action>[05/05/2019 17:57:44]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:57:44]:   Application loaded</Action>
+  <Action>[05/05/2019 17:57:47]:   Exit application</Action>
+  <Action>[05/05/2019 17:58:02]:   Updated Product</Action>
+  <Action>[05/05/2019 17:58:02]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:58:02]:   Application loaded</Action>
+  <Action>[05/05/2019 17:58:05]:   Access Statistics</Action>
+  <Action>[05/05/2019 17:58:10]:   Exit application</Action>
+  <Action>[05/05/2019 17:59:42]:   Updated Product</Action>
+  <Action>[05/05/2019 17:59:42]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 17:59:42]:   Application loaded</Action>
+  <Action>[05/05/2019 18:00:04]:   Access Stock</Action>
+  <Action>[05/05/2019 18:01:06]:   Access Statistics</Action>
+  <Action>[05/05/2019 18:01:36]:   Exit application</Action>
+  <Action>[05/05/2019 18:13:50]:   Updated Product</Action>
+  <Action>[05/05/2019 18:13:50]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 18:13:50]:   Application loaded</Action>
+  <Action>[05/05/2019 18:13:56]:   Access Quart</Action>
+  <Action>[05/05/2019 18:13:59]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:14:02]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:14:04]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 18:14:05]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 18:14:06]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:14:08]:   The purshase:	(Bought: Ordinateur  Total: 8000) was made</Action>
+  <Action>[05/05/2019 18:14:11]:   Access Stock</Action>
+  <Action>[05/05/2019 18:14:13]:   Updated Product</Action>
+  <Action>[05/05/2019 18:14:16]:   Deleted Product</Action>
+  <Action>[05/05/2019 18:14:38]:   Added product </Action>
+  <Action>[05/05/2019 18:14:41]:   Updated Product</Action>
+  <Action>[05/05/2019 18:14:41]:   Access Quart</Action>
+  <Action>[05/05/2019 18:14:43]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:14:44]:   The purshase:	(Bought: iPhone  Total: 5500) was made</Action>
+  <Action>[05/05/2019 18:14:47]:   Access Statistics</Action>
+  <Action>[05/05/2019 18:14:50]:   Access vendors List</Action>
+  <Action>[05/05/2019 18:14:56]:   Access Log</Action>
+  <Action>[05/05/2019 18:15:14]:   Exit application</Action>
+  <Action>[05/05/2019 18:15:16]:   Updated Product</Action>
+  <Action>[05/05/2019 18:15:16]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 18:15:16]:   Application loaded</Action>
+  <Action>[05/05/2019 18:15:18]:   Access Stock</Action>
+  <Action>[05/05/2019 18:15:19]:   Updated Product</Action>
+  <Action>[05/05/2019 18:15:21]:   Exit application</Action>
+  <Action>[05/05/2019 18:25:38]:   Updated Product</Action>
+  <Action>[05/05/2019 18:25:38]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 18:25:38]:   Application loaded</Action>
+  <Action>[05/05/2019 18:25:39]:   Access Quart</Action>
+  <Action>[05/05/2019 18:25:40]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:25:41]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:25:41]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:25:43]:   Added an item to quart</Action>
+  <Action>[05/05/2019 18:25:45]:   The purshase:	(Bought: Ordinateur + Samsung + Predator + iPhone  Total: 27801,87) was made</Action>
+  <Action>[05/05/2019 18:26:03]:   Exit application</Action>
+  <Action>[05/05/2019 18:26:07]:   Updated Product</Action>
+  <Action>[05/05/2019 18:26:07]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 18:26:07]:   Application loaded</Action>
+  <Action>[05/05/2019 18:26:10]:   Access Log</Action>
+  <Action>[05/05/2019 18:26:28]:   Access Stock</Action>
+  <Action>[05/05/2019 18:26:32]:   Access Log</Action>
+  <Action>[05/05/2019 18:26:50]:   Exit application</Action>
+  <Action>[05/05/2019 20:31:00]:   Updated Product</Action>
+  <Action>[05/05/2019 20:31:00]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:31:00]:   Application loaded</Action>
+  <Action>[05/05/2019 20:31:26]:   Access Quart</Action>
+  <Action>[05/05/2019 20:31:30]:   Access Stock</Action>
+  <Action>[05/05/2019 20:31:33]:   Access Statistics</Action>
+  <Action>[05/05/2019 20:31:38]:   Access vendors List</Action>
+  <Action>[05/05/2019 20:31:40]:   Access Log</Action>
+  <Action>[05/05/2019 20:32:13]:   Access Quart</Action>
+  <Action>[05/05/2019 20:32:16]:   Added an item to quart</Action>
+  <Action>[05/05/2019 20:32:18]:   Added an item to quart</Action>
+  <Action>[05/05/2019 20:32:21]:   Added an item to quart</Action>
+  <Action>[05/05/2019 20:32:24]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 20:32:27]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 20:32:29]:   Added an item to quart</Action>
+  <Action>[05/05/2019 20:32:31]:   Removed an item from quart</Action>
+  <Action>[05/05/2019 20:32:42]:   The purshase:	(Bought: Ordinateur + iPhone  Total: 13500) was made</Action>
+  <Action>[05/05/2019 20:32:57]:   Access Stock</Action>
+  <Action>[05/05/2019 20:33:39]:   Access vendors List</Action>
+  <Action>[05/05/2019 20:35:01]:   Added vendor Chaatet</Action>
+  <Action>[05/05/2019 20:35:02]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:35:12]:   Exit application</Action>
+  <Action>[05/05/2019 20:35:15]:   Updated Product</Action>
+  <Action>[05/05/2019 20:35:15]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:35:15]:   Application loaded</Action>
+  <Action>[05/05/2019 20:35:17]:   Access vendors List</Action>
+  <Action>[05/05/2019 20:35:22]:   Access Log</Action>
+  <Action>[05/05/2019 20:35:54]:   Access Quart</Action>
+  <Action>[05/05/2019 20:35:55]:   Access Log</Action>
+  <Action>[05/05/2019 20:36:12]:   Access Stock</Action>
+  <Action>[05/05/2019 20:37:50]:   Access Statistics</Action>
+  <Action>[05/05/2019 20:37:56]:   Access Log</Action>
+  <Action>[05/05/2019 20:37:59]:   Access vendors List</Action>
+  <Action>[05/05/2019 20:38:20]:   Access Quart</Action>
+  <Action>[05/05/2019 20:38:26]:   Exit application</Action>
+  <Action>[05/05/2019 20:38:46]:   Updated Product</Action>
+  <Action>[05/05/2019 20:38:46]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:38:46]:   Application loaded</Action>
+  <Action>[05/05/2019 20:38:47]:   Access Statistics</Action>
+  <Action>[05/05/2019 20:38:53]:   Exit application</Action>
+  <Action>[05/05/2019 20:49:40]:   Updated Product</Action>
+  <Action>[05/05/2019 20:49:40]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:49:40]:   Application loaded</Action>
+  <Action>[05/05/2019 20:50:09]:   Access Stock</Action>
+  <Action>[05/05/2019 20:50:31]:   Exit application</Action>
+  <Action>[05/05/2019 20:52:18]:   Updated Product</Action>
+  <Action>[05/05/2019 20:52:18]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:52:18]:   Application loaded</Action>
+  <Action>[05/05/2019 20:52:22]:   Exit application</Action>
+  <Action>[05/05/2019 20:52:30]:   Updated Product</Action>
+  <Action>[05/05/2019 20:52:30]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:52:30]:   Application loaded</Action>
+  <Action>[05/05/2019 20:52:33]:   Exit application</Action>
+  <Action>[05/05/2019 20:57:49]:   Updated Product</Action>
+  <Action>[05/05/2019 20:57:49]:   Updated Vendor info</Action>
+  <Action>[05/05/2019 20:57:49]:   Application loaded</Action>
+  <Action>[05/05/2019 20:57:51]:   Access Stock</Action>
+  <Action>[05/05/2019 20:57:57]:   Access Log</Action>
+  <Action>[05/05/2019 20:57:58]:   Access vendors List</Action>
+  <Action>[05/05/2019 20:57:58]:   Access Statistics</Action>
+  <Action>[05/05/2019 20:57:59]:   Access Stock</Action>
+  <Action>[05/05/2019 20:58:00]:   Access Quart</Action>
+  <Action>[05/05/2019 20:58:03]:   Exit application</Action>
+  <Action>[07/05/2019 21:07:11]:   Updated Product</Action>
+  <Action>[07/05/2019 21:07:11]:   Updated Vendor info</Action>
+  <Action>[07/05/2019 21:07:11]:   Application loaded</Action>
+  <Action>[07/05/2019 21:07:26]:   Access Quart</Action>
+  <Action>[07/05/2019 21:07:29]:   Access Stock</Action>
+  <Action>[07/05/2019 21:07:31]:   Access Statistics</Action>
+  <Action>[07/05/2019 21:07:38]:   Access vendors List</Action>
+  <Action>[07/05/2019 21:07:41]:   Access Log</Action>
+  <Action>[07/05/2019 21:07:53]:   Access Quart</Action>
+  <Action>[07/05/2019 21:07:54]:   Added an item to quart</Action>
+  <Action>[07/05/2019 21:07:58]:   The purshase:	(Bought: Samsung  Total: 4500,99) was made</Action>
+  <Action>[07/05/2019 21:08:08]:   Access Stock</Action>
+  <Action>[07/05/2019 21:08:14]:   Updated Product</Action>
+  <Action>[07/05/2019 21:08:16]:   Updated Product</Action>
+  <Action>[07/05/2019 21:08:30]:   Access vendors List</Action>
+  <Action>[07/05/2019 21:09:06]:   Added vendor Boudoudouh</Action>
+  <Action>[07/05/2019 21:09:08]:   Updated Vendor info</Action>
+  <Action>[07/05/2019 21:09:40]:   Deleted vendor</Action>
+  <Action>[07/05/2019 21:09:45]:   Updated Vendor info</Action>
+  <Action>[07/05/2019 21:09:45]:   Access Log</Action>
+  <Action>[07/05/2019 21:10:26]:   Exit application</Action>
+  <Action>[6/9/2019 2:28:52 PM]:   Updated Product</Action>
+  <Action>[6/9/2019 2:28:52 PM]:   Updated Vendor info</Action>
+  <Action>[6/9/2019 2:28:52 PM]:   Application loaded</Action>
+  <Action>[6/9/2019 2:31:34 PM]:   Access Quart</Action>
+  <Action>[6/9/2019 2:31:35 PM]:   Access Stock</Action>
+  <Action>[6/9/2019 2:31:42 PM]:   Access Log</Action>
+  <Action>[6/9/2019 2:32:06 PM]:   Access Stock</Action>
+  <Action>[6/9/2019 2:32:07 PM]:   Access Statistics</Action>
+  <Action>[6/9/2019 2:32:11 PM]:   Access Stock</Action>
+  <Action>[6/9/2019 2:32:56 PM]:   Exit application</Action>
+  <Action>[8/16/2019 5:44:45 PM]:   Updated Product</Action>
+  <Action>[8/16/2019 5:44:45 PM]:   Updated Vendor info</Action>
+  <Action>[8/16/2019 5:44:45 PM]:   Application loaded</Action>
+  <Action>[8/16/2019 5:45:15 PM]:   Access Quart</Action>
+  <Action>[8/16/2019 5:45:22 PM]:   Added an item to quart</Action>
+  <Action>[8/16/2019 5:45:24 PM]:   Added an item to quart</Action>
+  <Action>[8/16/2019 5:45:24 PM]:   Added an item to quart</Action>
+  <Action>[8/16/2019 5:45:28 PM]:   Removed an item from quart</Action>
+  <Action>[8/16/2019 5:45:30 PM]:   The purshase:	(Bought: Ordinateur + iPhone  Total: 13500) was made</Action>
+  <Action>[8/16/2019 5:45:39 PM]:   Access Stock</Action>
+  <Action>[8/16/2019 5:45:53 PM]:   Deleted Product</Action>
+  <Action>[8/16/2019 5:45:56 PM]:   Access Statistics</Action>
+  <Action>[8/16/2019 5:46:29 PM]:   Updated Product</Action>
+  <Action>[8/16/2019 5:46:29 PM]:   Access vendors List</Action>
+  <Action>[8/16/2019 5:46:31 PM]:   Access Statistics</Action>
+  <Action>[8/16/2019 5:46:39 PM]:   Access vendors List</Action>
+  <Action>[8/16/2019 5:46:58 PM]:   Added vendor Miliani</Action>
+  <Action>[8/16/2019 5:47:00 PM]:   Updated Vendor info</Action>
+  <Action>[8/16/2019 5:47:16 PM]:   Updated Vendor info</Action>
+  <Action>[8/16/2019 5:47:17 PM]:   Access Log</Action>
+  <Action>[8/16/2019 5:49:09 PM]:   Exit application</Action>
+  <Action>[11/10/2019 8:55:00 PM]:   Access Quart</Action>
+  <Action>[11/10/2019 8:55:04 PM]:   Access Stock</Action>
+  <Action>[11/10/2019 8:55:06 PM]:   Access Statistics</Action>
+  <Action>[11/10/2019 8:55:07 PM]:   Access vendors List</Action>
+  <Action>[11/10/2019 8:55:08 PM]:   Access Log</Action>
+  <Action>[11/10/2019 8:55:12 PM]:   Exit application</Action>
+  <Action>[11/10/2019 8:59:53 PM]:   Access Quart</Action>
+  <Action>[11/10/2019 8:59:55 PM]:   Access Stock</Action>
+  <Action>[11/10/2019 8:59:55 PM]:   Access Statistics</Action>
+  <Action>[11/10/2019 8:59:56 PM]:   Access vendors List</Action>
+  <Action>[11/10/2019 8:59:57 PM]:   Access Log</Action>
+  <Action>[11/10/2019 9:00:00 PM]:   Exit application</Action>
+  <Action>[1/18/2020 10:06:29 AM]:   Access Quart</Action>
+  <Action>[1/18/2020 10:08:01 AM]:   Removed an item from quart</Action>
+  <Action>[1/18/2020 10:08:06 AM]:   The purshase:	(Bought:   Total: 0) was made</Action>
+  <Action>[1/18/2020 10:08:10 AM]:   Access Stock</Action>
+  <Action>[1/18/2020 10:08:20 AM]:   Access Statistics</Action>
+  <Action>[1/18/2020 10:08:26 AM]:   Access vendors List</Action>
+  <Action>[1/18/2020 10:08:38 AM]:   Access Log</Action>
+  <Action>[1/18/2020 10:09:14 AM]:   Exit application</Action>
+  <Action>[1/18/2020 10:22:26 AM]:   Exit application</Action>
+  <Action>[1/18/2020 10:43:35 AM]:   Access Quart</Action>
+  <Action>[1/18/2020 10:43:39 AM]:   Added an item to quart</Action>
+  <Action>[1/18/2020 10:43:40 AM]:   Added an item to quart</Action>
+  <Action>[1/18/2020 10:43:41 AM]:   Added an item to quart</Action>
+  <Action>[1/18/2020 10:43:49 AM]:   Access Stock</Action>
+  <Action>[1/18/2020 10:43:50 AM]:   Access Statistics</Action>
+  <Action>[1/18/2020 10:43:51 AM]:   Access vendors List</Action>
+  <Action>[1/18/2020 10:43:53 AM]:   Access Log</Action>
+  <Action>[1/18/2020 10:43:58 AM]:   Access Log</Action>
+  <Action>[1/18/2020 10:44:12 AM]:   Exit application</Action>
+  <Action>[1/18/2020 10:44:25 AM]:   Access vendors List</Action>
+  <Action>[1/18/2020 10:44:41 AM]:   Exit application</Action>
+</Log>
