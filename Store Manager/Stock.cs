@@ -15,16 +15,21 @@ namespace Store_Manager
         public Stock()
         {
             InitializeComponent();
+            this.VisibleChanged += Stock_Load;
         }
 
         private void Stock_Load(object sender, EventArgs e)
         {
+            if (!Visible) return;
             try
             {
                 productsTableAdapter.FillBy(productsDataSet1.Products);
                 StockDataGrid.Refresh();
             }
-            catch (Exception ex) { }
+            catch (Exception ex) 
+            {
+                MessageBox.Show(ex.Message);
+            }
             
 
         }

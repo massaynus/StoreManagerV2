@@ -24,7 +24,10 @@ namespace Store_Manager
                 vendeurTableAdapter1.Fill(productsDataSet1.Vendeur);
                 VendorDataGrid.Refresh();
             }
-            catch (Exception ex){ }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void bunifuThinButton21_Click(object sender, EventArgs e)

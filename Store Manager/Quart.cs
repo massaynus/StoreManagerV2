@@ -72,15 +72,33 @@ namespace Store_Manager
             foreach (ListViewItem item in listQuart.Items)
             {
                 if (Lg == "Bought: ")
+                {
                     Lg += item.Text;
+
+                    
+                }
                 else
                     Lg += " + " + item.Text;
-                Facture += @" 
-" + item.Text;
+                Facture += "\n" + item.Text;
+                foreach (DataRow Row in productsDataSet1.Products.Rows)
+                {
+                    if (Row["Nom"].ToString() == item.Text)
+                    {
+                        try
+                        {
+                            Row["Quantite"] = int.Parse(Row["Quantite"].ToString()) - 1;
+                            productsTableAdapter.Update(Row);
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.Message);
+                        }
+                        continue;
+                    }
+                }
             }
-            Facture += @"
 
-" + Statistics.PriceSum.ToString() + " DH";
+            Facture += "\n\n" + Statistics.PriceSum.ToString() + " DH";
             Lg += "  Total: " + Statistics.PriceSum.ToString();
 
             Statistics.ItemsPerMonth[Statistics.MonthNum()]++;

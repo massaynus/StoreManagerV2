@@ -22,7 +22,7 @@ namespace Store_Manager
         {
             textBox1.Text = string.Empty;
             XmlDocument Log = new XmlDocument();
-            Log.Load("..\\..\\Log.xml");
+            Log.Load("Log.xml");
 
             foreach(XmlNode node in Log.DocumentElement.ChildNodes)
             {

@@ -39,6 +39,8 @@ namespace Store_Manager
             vendor1.Hide();
             quart1.Hide();
             logs1.Hide();
+
+            stock2.Refresh();
             stock2.Show();
             Statistics.Logger("Access Stock");
         }

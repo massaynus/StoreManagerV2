@@ -27,7 +27,7 @@ namespace Store_Manager
         public static void StatsManager(int Mode) //1 to load and 2 to update
         {
             XmlDocument XmlStats = new XmlDocument();
-            XmlStats.Load("..\\..\\Data.xml");
+            XmlStats.Load("Data.xml");
             if (Mode == 1)
             {
                 int I = 0;
@@ -62,11 +62,11 @@ namespace Store_Manager
         {
             Str = "[" + DateTime.Now + "]:   " + Str;
             XmlDocument XmlLog = new XmlDocument();
-            XmlLog.Load("..\\..\\Log.xml");
+            XmlLog.Load("Log.xml");
             XmlNode Action = XmlLog.CreateElement("Action");
             Action.InnerText = Str;
             XmlLog.DocumentElement.AppendChild(Action);
-            XmlLog.Save("..\\..\\Log.xml");
+            XmlLog.Save("Log.xml");
         }
 
 
